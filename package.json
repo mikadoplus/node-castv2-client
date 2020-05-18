@@ -6,13 +6,13 @@
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "castv2": "~0.1.4",
+    "castv2": "github:mikadoplus/node-castv2#de4c25f",
     "debug": "^2.2.0"
   },
   "devDependencies": {
     "array-find": "^1.0.0",
     "dns-txt": "^2.0.2",
-    "mocha": "^3.2.0",
+    "mocha": "^7.1.2",
     "multicast-dns": "^6.1.0",
     "util": "^0.10.3"
   },
