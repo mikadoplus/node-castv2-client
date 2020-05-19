@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "castv2": "github:mikadoplus/node-castv2#93f74ed",
+    "castv2": "github:mikadoplus/node-castv2",
     "debug": "^2.2.0"
   },
   "devDependencies": {
